@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">EhvXj2Ge</string>
+    <string name="usage">1. click "DO"\n2. open db file\n3. save new file</string>
+    <string name="whywork">why it work?\nfor xiaojie\'s version, the db version is higher than 4, so other EhViewer reject to load\ni just set version back to 4\nthe generic part not changed so it should safe to load in older version app</string>
+    <string name="v1">version: %d\nshould importable</string>
+    <string name="v2">version: %d\nyou can try but i can\'t ensure it works</string>
+    <string name="t">try</string>
+    <string name="cantr">can\'t open db. may not a db file</string>
+    <string name="uc">user canceled</string>
+    <string name="done">done</string>
+</resources>

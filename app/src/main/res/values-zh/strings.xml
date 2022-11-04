@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usage">1. 点击 "DO"\n2. 打开 db 文件\n3. 保存新文件</string>
+    <string name="whywork">为什么它起作用？\nxiaojie 的版本，db 版本高于4，其他 EhViewer 拒绝加载\n我只是将版本设置回 4\n通用部分没有改变，所以它应该可以安全地加载到旧版本的应用程序中</string>
+    <string name="v1">版本: %d\n应该可以导入</string>
+    <string name="v2">版本: %d\n你可以试试，但我不能确保它有效</string>
+    <string name="t">尝试</string>
+    <string name="cantr">无法打开数据库。 可能不是 db 文件</string>
+    <string name="uc">用户取消</string>
+    <string name="done">完毕</string>
+</resources>
