@@ -6,6 +6,10 @@ EhViewer 导出 db 文件 xiaojie 版本转通用版本
 
 ## 很明显这种简单的操作浏览器就可以完成
 
+https://ehconverter.skymkmk.com/
+
+### 或者你想自己操作
+
 将xiaojie版导出的数据导入到其他版本
 
 1. 在 xiaojie 版的设置-高级中导出数据，记住文件名`2022-xxxx.db`
